@@ -1,12 +1,13 @@
-In the project directory, you can run:
+## Start
 
-### `npm start`
+```bash
+# Install dependencies 
+npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Serve on localhost:3000
+npm start
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 ![p1](https://user-images.githubusercontent.com/77531811/129484035-14fd9508-553e-418e-84d7-186ea0848b1f.png)
 
 
